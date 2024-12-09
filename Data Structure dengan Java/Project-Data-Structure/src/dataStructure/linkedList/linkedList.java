@@ -1,3 +1,12 @@
+/*
+ * Linked List
+ * Nama: Hafizh Hilman Asyhari
+ * Kelas: D
+ * Tahun: 2024
+ * Negara: Indonesia
+ * Github: hafizhhasyhari
+ */
+
 package dataStructure.linkedList;
 
 import java.util.LinkedList;
