@@ -1,6 +1,8 @@
-# OOP-Pemrograman-Berorientasi-Objek-2024
+# OOBJECT ORIENTED PROGRAMMING DENGAN JAVA 2024
 OOP Java / Pemrograman Berorientasi Objek 2024
 
+Selamat datang di repositori **Pemrograman Berorientasi Objek (OOP)** dengan **Java**!  
+Repositori ini dirancang untuk membantu Anda memahami dan menguasai konsep-konsep OOP, yang merupakan dasar bagi pengembangan perangkat lunak modern. Di dalam repositori ini, Anda akan menemukan berbagai **materi**, **praktikum**, **tantangan**, **workshop**, **bootcamp**, dan **proyek** yang akan membawa Anda dari konsep dasar hingga aplikasi perangkat lunak yang lebih kompleks.
 
 ### *📂 Topik yang Dibahas **
 ## Struktur Data 
