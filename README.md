@@ -82,9 +82,7 @@ Pastikan untuk mengeksplorasi setiap bagian di repositori ini dan mengasah keter
 
 ---
 
-Watermark:
 Nama: Hafizh Hilman Asyhari  
-Kelas: D  
 Tahun: 2024  
 Negara: Indonesia  
 GitHub: [hafizhhasyhari](https://github.com/hafizhhasyhari)
