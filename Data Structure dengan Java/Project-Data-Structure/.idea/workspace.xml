@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7bc42b8-b674-4402-b6f7-ae255fb4a1ef" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2phcGuvMHwJ75aBL9WVQAqEL8F2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="openDirectoriesWithSingleClick" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+    <option name="sortKey" value="BY_TIME_DESCENDING" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AlgorithmsBinarySearch.executor": "Run",
+    "Application.AlgorithmsInsertionSort.executor": "Run",
+    "Application.AlgorithmsInterpolationSearch.executor": "Run",
+    "Application.AlgorithmsLinearSearch.executor": "Run",
+    "Application.AlgorithmsMergeSort.executor": "Run",
+    "Application.AlgorithmsRecursion.executor": "Run",
+    "Application.AlgorithmsSelectionSort.executor": "Run",
+    "Application.DataStructureArrayList.executor": "Run",
+    "Application.DataStructureLinkedList.executor": "Run",
+    "Application.DataStructureLinkedListVSArrayList.executor": "Run",
+    "Application.DataStructureQueue.executor": "Run",
+    "Application.DataStructureQueuePriorityQueue.executor": "Run",
+    "Application.DataStructureStack.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Lucas/Documents/GitHub/DataStructuresAndAlgorithms",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.30487806"
+  },
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7bc42b8-b674-4402-b6f7-ae255fb4a1ef" name="Changes" comment="" />
+      <created>1733221668540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733221668540</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Some updates in my github with Algorithms and Data Structure">
+      <option name="closed" value="true" />
+      <created>1733254836846</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733254836847</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some updates in my github with Algorithms and Data Structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some updates in my github with Algorithms and Data Structure" />
+  </component>
+</project>
